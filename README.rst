@@ -34,7 +34,7 @@ If you are using `Scrapy <scrapy.readthedocs.org>`_ for crawling, check out
 which is a scrapy middleware that uses autologin http-api to maintain
 a logged-in state for a scrapy spider.
 
-Autologin works on Python 2.7 and 3.3+.
+Autologin works on Python 3.8+.
 
 .. note:: The library is in the alpha stage.
    API can still change, especially around the keychain UI.
