@@ -1,0 +1,17 @@
+./setup.py
+./autologin/forms.py
+./autologin/login_keychain.py
+./autologin/spiders.py
+./autologin/middleware.py
+./autologin/app.py
+./autologin/scrapyutils.py
+./autologin/__init__.py
+./autologin/server.py
+./autologin/autologin.py
+./autologin/http_api.py
+./tests/test_autologin.py
+./tests/__init__.py
+./tests/proxy.py
+./tests/test_http_api.py
+./tests/mockserver.py
+./docs/conf.py
